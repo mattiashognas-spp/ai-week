@@ -1,2 +1,2 @@
 # ai-week
-AI Week
+AI Week workshop, please use the file kundinsikter.md
